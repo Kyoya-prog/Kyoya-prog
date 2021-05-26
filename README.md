@@ -1,6 +1,6 @@
-### Hi there 👋
-
 ## Hi there 👋 
+
+
 ### I’m currently learning Swift, Ruby and Ruby on Rails 🍀
 
 -  I'm a university student　🎓
