@@ -1,10 +1,11 @@
 ## Hi there 👋 
 
 
-### I’m currently learning Swift, Ruby and Ruby on Rails 🍀
+### 
+I work as a software engineer
 
 -  I'm a university student　🎓
--  swift & ruby engineer
+-  mobile app engineer
 
 [![](https://raw.githubusercontent.com/Kyoya-prog/Kyoya-prog/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Kyoya-prog/Kyoya-prog/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Kyoya-prog/Kyoya-prog/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
