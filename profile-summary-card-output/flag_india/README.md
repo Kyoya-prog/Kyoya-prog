@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Kyoya-prog/Kyoya-prog/main/profile-summary-card-output/flag_india/4-productive-time.svg)
-```
-
-    
