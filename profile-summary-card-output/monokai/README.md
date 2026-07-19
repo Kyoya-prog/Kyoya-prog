@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/Kyoya-prog/Kyoya-prog/main/profile-summary-card-output/monokai/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Kyoya-prog/Kyoya-prog/main/profile-summary-card-output/monokai/4-productive-time.svg)
-```
-
-    
